@@ -1,19 +1,21 @@
-*{
-  text-align: center;
-}
 
 h2{
   text-align: center;
 }
 
+ul{
+  text-decoration: none;
+}
+
 li{
   text-align: center;
 }
+
 p{
   color:red;
   text-align: center;
 }
 
-#menu{
+#restaurant_menu{
   text-align: center;
 }
