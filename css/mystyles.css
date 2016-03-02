@@ -1,4 +1,13 @@
+h1{
+  font-family: cursive;
+  font-size: 72;
+}
+
 p{
   color:red;
+  text-align: center;
+}
+
+#menu{
   text-align: center;
 }
