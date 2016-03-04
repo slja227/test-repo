@@ -17,7 +17,7 @@ p{
   font-size: 20px;
 }
 #hi{
-  position:relative, -50px;
+  position:relative 10px;
 }
 #restaurant_menu{
   text-align: center;
